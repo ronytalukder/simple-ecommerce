@@ -15,13 +15,12 @@ img{
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
     position: relative;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 
 button{
-    display: block;
     width: 100%;
-    padding:15px 0;
+    padding:5px 0;
     text-align: center;
     background-color: #FFE0B3;
     border: none;
